@@ -1,0 +1,6 @@
+org/example/objects/OrderObject.class
+org/example/clients/CourierClient.class
+org/example/generator/CourierGenerator.class
+org/example/objects/CourierObject.class
+org/example/clients/OrderClient.class
+org/example/data/CourierData.class
