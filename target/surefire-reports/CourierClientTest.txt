@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: CourierClientTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 74.7 s - in CourierClientTest
